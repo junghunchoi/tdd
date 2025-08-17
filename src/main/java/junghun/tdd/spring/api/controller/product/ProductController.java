@@ -1,4 +1,4 @@
-package junghun.tdd.spring.api.controller;
+package junghun.tdd.spring.api.controller.product;
 
 import junghun.tdd.spring.api.service.product.ProductService;
 import junghun.tdd.spring.api.service.product.response.ProductResponse;
